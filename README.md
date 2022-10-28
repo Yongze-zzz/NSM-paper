@@ -15,3 +15,6 @@ Continuous-Subgraph-Matching(w/o GNN)
 
 3. 𒆜Tesseract: distributed, general graph pattern mining on evolving graphs[EuroSys 2021] [[paper]](https://dl.acm.org/doi/abs/10.1145/3447786.3456253)
 
+Dynamic graph analysis
+
+1.HyTGraph: GPU-Accelerated Graph Processing with Hybrid Transfer Management [[paper]](https://arxiv.org/pdf/2208.14935.pdf)
